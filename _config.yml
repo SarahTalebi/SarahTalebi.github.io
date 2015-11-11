@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://SarahTalebi.github.io
+title: SaraH
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
